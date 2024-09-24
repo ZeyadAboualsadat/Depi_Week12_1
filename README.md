@@ -1,16 +1,9 @@
-# flutter_assignment_1
 
-A new Flutter project.
+https://github.com/user-attachments/assets/60ef8c91-85e6-4915-9d34-4bc94848e197
+# flutter_assignment_week12_1
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## video:
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Uploading Recording 2024-09-25 005622.mp4…
